@@ -4,7 +4,7 @@ A modern and responsive inventory management frontend built using React, Vite, a
 
 This project serves as the frontend interface for the Vyapix business management system, designed to simplify inventory tracking, sales management, and product monitoring through a clean and intuitive UI.
 
-> ⚠️ This project is forked from the original repository and customized for educational and learning purposes.
+
 
 ---
 
